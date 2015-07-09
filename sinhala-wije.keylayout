@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<!--Created by Ukelele version 1.8.4 on 2010-11-26 at 11:33 (GMT+05:30)-->
+<!--Last edited by Ukelele version 2.2.8 on 2015-04-12 at 01:06 (GMT+5:30)-->
+<keyboard group="126" id="-17284" name="sinhala-wije" maxout="5">
+    <layouts>
+        <layout first="0" last="17" modifiers="Modifiers" mapSet="ANSI"/>
+        <layout first="18" last="18" modifiers="Modifiers" mapSet="JIS"/>
+        <layout first="21" last="23" modifiers="Modifiers" mapSet="JIS"/>
+        <layout first="30" last="30" modifiers="Modifiers" mapSet="JIS"/>
+        <layout first="33" last="33" modifiers="Modifiers" mapSet="JIS"/>
+        <layout first="36" last="36" modifiers="Modifiers" mapSet="JIS"/>
+        <layout first="194" last="194" modifiers="Modifiers" mapSet="JIS"/>
+        <layout first="197" last="197" modifiers="Modifiers" mapSet="JIS"/>
+        <layout first="200" last="201" modifiers="Modifiers" mapSet="JIS"/>
+        <layout first="206" last="207" modifiers="Modifiers" mapSet="JIS"/>
+    </layouts>
+    <modifierMap id="Modifiers" defaultIndex="0">
+        <keyMapSelect mapIndex="0">
+            <modifier keys=""/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="1">
+            <modifier keys="anyShift caps?"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="2">
+            <modifier keys="anyOption"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="3">
+            <modifier keys="caps"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="4">
+            <modifier keys="anyShift caps? anyOption"/>
+        </keyMapSelect>
+    </modifierMap>
+    <keyMapSet id="ANSI">
+        <keyMap index="0">
+            <key code="0" action="්"/>
+            <key code="1" action="ි"/>
+            <key code="2" action="ා"/>
+            <key code="3" action="ෙ"/>
+            <key code="4" action="ය"/>
+            <key code="5" action="ට"/>
+            <key code="6" action="&#x0027;"/>
+            <key code="7" output="ං"/>
+            <key code="8" action="ජ"/>
+            <key code="9" action="ඩ"/>
+            <key code="11" output="ඉ"/>
+            <key code="12" output="ු"/>
+            <key code="13" action="අ"/>
+            <key code="14" action="ැ"/>
+            <key code="15" action="ර"/>
+            <key code="16" action="හ"/>
+            <key code="17" action="එ"/>
+            <key code="18" action="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
+            <key code="24" output="="/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
+            <key code="27" output="-"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
+            <key code="30" output=";"/>
+            <key code="31" action="ද"/>
+            <key code="32" action="ම"/>
+            <key code="33" action="ඤ"/>
+            <key code="34" action="ස"/>
+            <key code="35" action="ච"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" action="ක"/>
+            <key code="38" action="ව"/>
+            <key code="39" output="."/>
+            <key code="40" action="න"/>
+            <key code="41" action="ත"/>
+            <key code="42" output="්‍"/>
+            <key code="43" action="ල"/>
+            <key code="44" output="/"/>
+            <key code="45" action="බ"/>
+            <key code="46" action="ප"/>
+            <key code="47" action="ග"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
+            <key code="50" action="්‍ර"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="1">
+            <key code="0" action="ෟ"/>
+            <key code="1" output="ී"/>
+            <key code="2" output="ෘ"/>
+            <key code="3" output="ෆ"/>
+            <key code="4" output="්‍ය"/>
+            <key code="5" action="ඨ"/>
+            <key code="6" output="&#x0022;"/>
+            <key code="7" output="ඃ"/>
+            <key code="8" action="ඣ"/>
+            <key code="9" action="ඪ"/>
+            <key code="11" output="ඊ"/>
+            <key code="12" output="ූ"/>
+            <key code="13" action="උ"/>
+            <key code="14" action="ෑ"/>
+            <key code="15" output="සෘ"/>
+            <key code="16" action="ශ"/>
+            <key code="17" action="ඔ"/>
+            <key code="18" output="!"/>
+            <key code="19" output="@"/>
+            <key code="20" output="#"/>
+            <key code="21" output="$"/>
+            <key code="22" output="^"/>
+            <key code="23" output="%"/>
+            <key code="24" output="+"/>
+            <key code="25" output="("/>
+            <key code="26" output="&#x0026;"/>
+            <key code="27" output="_"/>
+            <key code="28" output="*"/>
+            <key code="29" output=")"/>
+            <key code="30" output=":"/>
+            <key code="31" action="ධ"/>
+            <key code="32" action="ඹ"/>
+            <key code="33" action="ඥ"/>
+            <key code="34" action="ෂ"/>
+            <key code="35" action="ඡ"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" action="ඛ"/>
+            <key code="38" output="ළු"/>
+            <key code="39" output=","/>
+            <key code="40" action="ණ"/>
+            <key code="41" action="ථ"/>
+            <key code="42" output="‍"/>
+            <key code="43" action="ළ"/>
+            <key code="44" output="?"/>
+            <key code="45" action="භ"/>
+            <key code="46" action="ඵ"/>
+            <key code="47" action="ඝ"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="50" output="ර්‍"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="2">
+            <key code="0" output=""/>
+            <key code="7" output="ඞ"/>
+            <key code="8" action="ඦ"/>
+            <key code="9" action="State 85"/>
+            <key code="31" action="ඳ"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="39" output="෴"/>
+            <key code="43" output="ඏ"/>
+            <key code="47" action="ඟ"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="66" output="&#x001D;"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="3">
+            <key code="0" output=""/>
+            <key code="36" output="&#x000D;"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="66" output="&#x001D;"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="4">
+            <key code="0" output=""/>
+            <key code="36" output="&#x000D;"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="66" output="&#x001D;"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+    </keyMapSet>
+    <keyMapSet id="JIS">
+        <keyMap index="0" baseMapSet="ANSI" baseIndex="0">
+            <key code="512" output=""/>
+        </keyMap>
+        <keyMap index="1" baseMapSet="ANSI" baseIndex="1">
+            <key code="512" output=""/>
+        </keyMap>
+        <keyMap index="2" baseMapSet="ANSI" baseIndex="2">
+            <key code="512" output=""/>
+        </keyMap>
+        <keyMap index="3" baseMapSet="ANSI" baseIndex="3">
+            <key code="512" output=""/>
+        </keyMap>
+        <keyMap index="4" baseMapSet="ANSI" baseIndex="4">
+            <key code="512" output=""/>
+        </keyMap>
+    </keyMapSet>
+    <actions>
+        <action id="&#x0027;">
+            <when state="none" output="&#x0027;"/>
+        </action>
+        <action id="1">
+            <when state="none" output="1"/>
+            <when state="State 31" next="ddre"/>
+        </action>
+        <action id="State 85">
+            <when state="none" output="ඬ"/>
+            <when state="State 1" next="State 85"/>
+        </action>
+        <action id="අ">
+            <when state="none" next="State 79"/>
+        </action>
+        <action id="උ">
+            <when state="none" next="State 81"/>
+        </action>
+        <action id="එ">
+            <when state="none" next="State 82"/>
+            <when state="State 33" output="රෛ"/>
+        </action>
+        <action id="ඔ">
+            <when state="none" next="State 80"/>
+        </action>
+        <action id="ක">
+            <when state="none" output="ක"/>
+            <when state="State 1" next="State 36"/>
+            <when state="State 33" output="නෛ"/>
+        </action>
+        <action id="ඛ">
+            <when state="none" output="ඛ"/>
+            <when state="State 1" next="State 63"/>
+            <when state="State 33" output="කෛ"/>
+        </action>
+        <action id="ග">
+            <when state="none" output="ග"/>
+            <when state="State 1" next="State 44"/>
+            <when state="State 33" output="ගෛ"/>
+        </action>
+        <action id="ඝ">
+            <when state="none" output="ඝ"/>
+            <when state="State 1" next="State 77"/>
+            <when state="State 33" output="කෛ"/>
+        </action>
+        <action id="ඟ">
+            <when state="none" output="ඟ"/>
+            <when state="State 1" next="kombu"/>
+        </action>
+        <action id="ච">
+            <when state="none" output="ච"/>
+            <when state="State 1" next="State 25"/>
+            <when state="State 33" output="දෛ"/>
+        </action>
+        <action id="ඡ">
+            <when state="none" output="ඡ"/>
+            <when state="State 1" next="State 57"/>
+            <when state="State 33" output="කෛ"/>
+        </action>
+        <action id="ජ">
+            <when state="none" output="ජ"/>
+            <when state="State 1" next="State 29"/>
+            <when state="State 33" output="ජෛ"/>
+        </action>
+        <action id="ඣ">
+            <when state="none" output="ඣ"/>
+            <when state="State 1" next="State 67"/>
+            <when state="State 33" output="කෛ"/>
+        </action>
+        <action id="ඤ">
+            <when state="none" output="ඤ"/>
+            <when state="State 1" next="State 27"/>
+            <when state="State 33" output="ඤෛ"/>
+        </action>
+        <action id="ඥ">
+            <when state="none" output="ඥ"/>
+            <when state="State 1" next="State 59"/>
+            <when state="State 33" output="කෛ"/>
+        </action>
+        <action id="ඦ">
+            <when state="none" output="ඦ"/>
+            <when state="State 1" output="ඦෙ"/>
+        </action>
+        <action id="ට">
+            <when state="none" output="ට"/>
+            <when state="State 1" next="State 2"/>
+            <when state="State 33" output="ටෛ"/>
+        </action>
+        <action id="ඨ">
+            <when state="none" output="ඨ"/>
+            <when state="State 1" next="State 46"/>
+            <when state="State 33" output="කෛ"/>
+        </action>
+        <action id="ඩ">
+            <when state="none" output="ඩ"/>
+            <when state="State 1" next="State 31"/>
+            <when state="State 33" output="ඩෛ"/>
+        </action>
+        <action id="ඪ">
+            <when state="none" output="ඪ"/>
+            <when state="State 1" next="State 69"/>
+            <when state="State 33" output="කෛ"/>
+        </action>
+        <action id="ණ">
+            <when state="none" output="ණ"/>
+            <when state="State 1" next="State 61"/>
+            <when state="State 33" output="කෛ"/>
+        </action>
+        <action id="ත">
+            <when state="none" output="ත"/>
+            <when state="State 1" next="State 12"/>
+            <when state="State 33" output="කෛ"/>
+        </action>
+        <action id="ථ">
+            <when state="none" output="ථ"/>
+            <when state="State 1" next="State 65"/>
+        </action>
+        <action id="ද">
+            <when state="none" output="ද"/>
+            <when state="State 1" next="State 23"/>
+            <when state="State 33" output="සෛ"/>
+        </action>
+        <action id="ධ">
+            <when state="none" output="ධ"/>
+            <when state="State 1" next="State 55"/>
+            <when state="State 33" output="කෛ"/>
+        </action>
+        <action id="න">
+            <when state="none" output="න"/>
+            <when state="State 1" next="State 8"/>
+            <when state="State 33" output="වෛ"/>
+        </action>
+        <action id="ඳ">
+            <when state="none" output="ඳ"/>
+            <when state="State 1" next="State 83"/>
+        </action>
+        <action id="ප">
+            <when state="none" output="ප"/>
+            <when state="State 1" next="State 40"/>
+            <when state="State 33" output="පෛ"/>
+        </action>
+        <action id="ඵ">
+            <when state="none" output="ඵ"/>
+            <when state="State 1" next="State 73"/>
+            <when state="State 33" output="කෛ"/>
+        </action>
+        <action id="බ">
+            <when state="none" output="බ"/>
+            <when state="State 1" next="State 38"/>
+            <when state="State 33" output="බෛ"/>
+        </action>
+        <action id="භ">
+            <when state="none" output="භ"/>
+            <when state="State 1" next="State 71"/>
+        </action>
+        <action id="ම">
+            <when state="none" output="ම"/>
+            <when state="State 1" next="State 34"/>
+            <when state="State 33" output="මෛ"/>
+        </action>
+        <action id="ඹ">
+            <when state="none" output="ඹ"/>
+            <when state="State 1" next="State 50"/>
+        </action>
+        <action id="ය">
+            <when state="none" output="ය"/>
+            <when state="State 1" next="State 4"/>
+        </action>
+        <action id="ර">
+            <when state="none" output="ර"/>
+            <when state="State 1" next="State 15"/>
+        </action>
+        <action id="ල">
+            <when state="none" output="ල"/>
+            <when state="State 1" next="State 42"/>
+            <when state="State 33" output="ලෛ"/>
+        </action>
+        <action id="ව">
+            <when state="none" output="ව"/>
+            <when state="State 1" next="State 6"/>
+        </action>
+        <action id="ශ">
+            <when state="none" output="ශ"/>
+            <when state="State 1" next="State 48"/>
+        </action>
+        <action id="ෂ">
+            <when state="none" output="ෂ"/>
+            <when state="State 1" next="State 52"/>
+        </action>
+        <action id="ස">
+            <when state="none" output="ස"/>
+            <when state="State 1" next="State 21"/>
+        </action>
+        <action id="හ">
+            <when state="none" output="හ"/>
+            <when state="State 1" next="State 17"/>
+        </action>
+        <action id="ළ">
+            <when state="none" output="ළ"/>
+            <when state="State 1" next="State 75"/>
+        </action>
+        <action id="්">
+            <when state="none" output="්"/>
+            <when state="State 10" output="ක්‍රේ"/>
+            <when state="State 11" output="කෝ"/>
+            <when state="State 12" output="තේ"/>
+            <when state="State 13" output="තෝ"/>
+            <when state="State 15" output="රේ"/>
+            <when state="State 16" output="රෝ"/>
+            <when state="State 17" output="හේ"/>
+            <when state="State 18" output="හෝ"/>
+            <when state="State 2" output="ටේ"/>
+            <when state="State 20" output="මෝ"/>
+            <when state="State 21" output="සේ"/>
+            <when state="State 22" output="සෝ"/>
+            <when state="State 23" output="දේ"/>
+            <when state="State 24" output="දෝ"/>
+            <when state="State 25" output="චේ"/>
+            <when state="State 26" output="චෝ"/>
+            <when state="State 27" output="ඤේ"/>
+            <when state="State 28" output="ඤෝ"/>
+            <when state="State 29" output="ජේ"/>
+            <when state="State 3" output="ටෝ"/>
+            <when state="State 30" output="ජෝ"/>
+            <when state="State 31" output="ඩේ"/>
+            <when state="State 32" output="ඩෝ"/>
+            <when state="State 34" output="මේ"/>
+            <when state="State 35" output="මෝ"/>
+            <when state="State 36" output="කේ"/>
+            <when state="State 37" output="කෝ"/>
+            <when state="State 38" output="බේ"/>
+            <when state="State 39" output="බෝ"/>
+            <when state="State 4" output="යේ"/>
+            <when state="State 40" output="පේ"/>
+            <when state="State 41" output="පෝ"/>
+            <when state="State 42" output="ලේ"/>
+            <when state="State 43" output="ලෝ"/>
+            <when state="State 44" output="ගේ"/>
+            <when state="State 45" output="ගෝ"/>
+            <when state="State 46" output="ඨේ"/>
+            <when state="State 47" output="ඨෝ"/>
+            <when state="State 48" output="ශේ"/>
+            <when state="State 49" output="ශෝ"/>
+            <when state="State 5" output="යෝ"/>
+            <when state="State 50" output="ඹේ"/>
+            <when state="State 51" output="ඹෝ"/>
+            <when state="State 52" output="ෂේ"/>
+            <when state="State 54" output="ෂෝ"/>
+            <when state="State 55" output="ධේ"/>
+            <when state="State 56" output="ධෝ"/>
+            <when state="State 57" output="ඡේ"/>
+            <when state="State 58" output="ඡෝ"/>
+            <when state="State 59" output="ඥේ"/>
+            <when state="State 6" output="වේ"/>
+            <when state="State 60" output="ඥෝ"/>
+            <when state="State 61" output="ණේ"/>
+            <when state="State 62" output="ණෝ"/>
+            <when state="State 63" output="ෙඛ්"/>
+            <when state="State 64" output="ඛෝ"/>
+            <when state="State 65" output="ථේ"/>
+            <when state="State 66" output="ථෝ"/>
+            <when state="State 67" output="ඣේ"/>
+            <when state="State 68" output="ඣෝ"/>
+            <when state="State 69" output="ඪේ"/>
+            <when state="State 7" output="වෝ"/>
+            <when state="State 70" output="ඪෝ"/>
+            <when state="State 71" output="භේ"/>
+            <when state="State 72" output="භෝ"/>
+            <when state="State 73" output="ඵේ"/>
+            <when state="State 74" output="ඵෝ"/>
+            <when state="State 75" output="ළේ"/>
+            <when state="State 76" output="ළෝ"/>
+            <when state="State 77" output="ඝේ"/>
+            <when state="State 78" output="ඝෝ"/>
+            <when state="State 8" output="නේ"/>
+            <when state="State 80" output="ඕ"/>
+            <when state="State 82" output="ඒ"/>
+            <when state="State 83" output="ඳේ"/>
+            <when state="State 84" output="ඳෝ"/>
+            <when state="State 85" output="ඬේ"/>
+            <when state="State 86" output="ඬෝ"/>
+            <when state="State 9" output="නෝ"/>
+            <when state="bre" output="බ්‍රේ"/>
+            <when state="bro" output="බ්‍රෝ"/>
+            <when state="cre" output="ච්‍රේ"/>
+            <when state="cro" output="ච්‍රෝ"/>
+            <when state="ddre" output="ඩ්‍රේ"/>
+            <when state="ddro" output="ඩ්‍රෝ"/>
+            <when state="dhre" output="ධ්‍රේ"/>
+            <when state="dhro" output="ධ්‍රෝ"/>
+            <when state="dre" output="ද්‍රේ"/>
+            <when state="dro" output="ද්‍රෝ"/>
+            <when state="ggre" output="ඝ්‍රේ"/>
+            <when state="ggro" output="ඝ්‍රෝ"/>
+            <when state="gre" output="ග්‍රේ"/>
+            <when state="gro" output="ග්‍රෝ"/>
+            <when state="hre" output="හ්‍රේ"/>
+            <when state="jre" output="ජ්‍රේ"/>
+            <when state="jro" output="ජ්‍රෝ"/>
+            <when state="kkro" output="ක්‍රෝ"/>
+            <when state="kombu" output="ඟේ"/>
+            <when state="lre" output="ල්‍රේ"/>
+            <when state="lro" output="ල්‍රෝ"/>
+            <when state="mre" output="ම්‍රේ"/>
+            <when state="nre" output="න්‍රේ"/>
+            <when state="nro" output="න්‍රෝ"/>
+            <when state="pre" output="ප්‍රේ"/>
+            <when state="pro" output="ප්‍රෝ"/>
+            <when state="sre" output="ස්‍රේ"/>
+            <when state="sro" output="ස්‍රෝ"/>
+            <when state="thre" output="ත්‍රේ"/>
+            <when state="thro" output="ත්‍රෝ"/>
+            <when state="tre" output="ට්‍රේ"/>
+            <when state="tro" output="ට්‍රෝ"/>
+            <when state="vre" output="ව්‍රේ"/>
+            <when state="vro" output="ව්‍රෝ"/>
+            <when state="ම්‍රෝ" output="ම්‍රෝ"/>
+        </action>
+        <action id="්‍ර">
+            <when state="none" output="්‍ර"/>
+            <when state="State 12" next="thre"/>
+            <when state="State 17" next="hre"/>
+            <when state="State 2" next="tre"/>
+            <when state="State 21" next="sre"/>
+            <when state="State 23" next="dre"/>
+            <when state="State 25" next="cre"/>
+            <when state="State 29" next="jre"/>
+            <when state="State 31" output="ඩ්‍රෙ"/>
+            <when state="State 34" next="mre"/>
+            <when state="State 36" next="State 10"/>
+            <when state="State 38" next="bre"/>
+            <when state="State 40" next="pre"/>
+            <when state="State 42" next="lre"/>
+            <when state="State 44" next="gre"/>
+            <when state="State 55" next="dhre"/>
+            <when state="State 6" next="vre"/>
+            <when state="State 77" next="ggre"/>
+            <when state="State 8" next="nre"/>
+        </action>
+        <action id="ා">
+            <when state="none" output="ා"/>
+            <when state="State 10" next="kkro"/>
+            <when state="State 12" next="State 13"/>
+            <when state="State 15" next="State 16"/>
+            <when state="State 17" next="State 18"/>
+            <when state="State 2" next="State 3"/>
+            <when state="State 21" next="State 22"/>
+            <when state="State 23" next="State 24"/>
+            <when state="State 25" next="State 26"/>
+            <when state="State 27" next="State 28"/>
+            <when state="State 29" next="State 30"/>
+            <when state="State 31" next="State 32"/>
+            <when state="State 34" next="State 35"/>
+            <when state="State 36" next="State 37"/>
+            <when state="State 38" next="State 39"/>
+            <when state="State 4" next="State 5"/>
+            <when state="State 40" next="State 41"/>
+            <when state="State 42" next="State 43"/>
+            <when state="State 44" next="State 45"/>
+            <when state="State 46" next="State 47"/>
+            <when state="State 48" next="State 49"/>
+            <when state="State 50" next="State 51"/>
+            <when state="State 52" next="State 54"/>
+            <when state="State 55" next="State 56"/>
+            <when state="State 57" next="State 58"/>
+            <when state="State 59" next="State 60"/>
+            <when state="State 6" next="State 7"/>
+            <when state="State 61" next="State 62"/>
+            <when state="State 63" next="State 64"/>
+            <when state="State 65" next="State 66"/>
+            <when state="State 67" next="State 68"/>
+            <when state="State 69" next="State 70"/>
+            <when state="State 71" next="State 72"/>
+            <when state="State 73" next="State 74"/>
+            <when state="State 75" next="State 76"/>
+            <when state="State 77" next="State 78"/>
+            <when state="State 79" output="ආ"/>
+            <when state="State 8" next="State 9"/>
+            <when state="State 83" next="State 84"/>
+            <when state="State 85" next="State 86"/>
+            <when state="bre" next="bro"/>
+            <when state="cre" next="cro"/>
+            <when state="ddre" next="ddro"/>
+            <when state="dhre" next="dhro"/>
+            <when state="dre" next="dro"/>
+            <when state="ggre" next="ggro"/>
+            <when state="gre" next="gro"/>
+            <when state="hre" output="හ්‍රො"/>
+            <when state="jre" next="jro"/>
+            <when state="kombu" output="ඟො"/>
+            <when state="lre" next="lro"/>
+            <when state="mre" next="ම්‍රෝ"/>
+            <when state="nre" next="nro"/>
+            <when state="pre" next="pro"/>
+            <when state="sre" next="sro"/>
+            <when state="thre" next="thro"/>
+            <when state="tre" next="tro"/>
+            <when state="vre" next="vro"/>
+        </action>
+        <action id="ැ">
+            <when state="none" output="ැ"/>
+            <when state="State 79" output="ඇ"/>
+        </action>
+        <action id="ෑ">
+            <when state="none" output="ෑ"/>
+            <when state="State 79" output="ඈ"/>
+        </action>
+        <action id="ි">
+            <when state="none" output="ි"/>
+        </action>
+        <action id="ෙ">
+            <when state="none" next="State 1"/>
+            <when state="State 1" next="State 33"/>
+        </action>
+        <action id="ෟ">
+            <when state="none" output="ෟ"/>
+            <when state="State 12" output="තෞ"/>
+            <when state="State 15" output="රෞ"/>
+            <when state="State 17" output="හෞ"/>
+            <when state="State 2" output="ටෞ"/>
+            <when state="State 21" output="සෞ"/>
+            <when state="State 23" output="දෞ"/>
+            <when state="State 25" output="චෞ"/>
+            <when state="State 27" output="ඤෞ"/>
+            <when state="State 29" output="ජෞ"/>
+            <when state="State 31" output="ඩෞ"/>
+            <when state="State 34" output="මෞ"/>
+            <when state="State 36" output="කෞ"/>
+            <when state="State 4" output="යෞ"/>
+            <when state="State 40" output="පෞ"/>
+            <when state="State 42" output="ලෞ"/>
+            <when state="State 44" output="ගෞ"/>
+            <when state="State 46" output="ඨෞ"/>
+            <when state="State 48" output="ශෞ"/>
+            <when state="State 50" output="ඹෞ"/>
+            <when state="State 52" output="ෂෞ"/>
+            <when state="State 55" output="ධෞ"/>
+            <when state="State 57" output="ඡෞ"/>
+            <when state="State 59" output="ඥෞ"/>
+            <when state="State 6" output="වෞ"/>
+            <when state="State 61" output="ණෞ"/>
+            <when state="State 63" output="ෙඛෟ"/>
+            <when state="State 65" output="ථෞ"/>
+            <when state="State 67" output="ඣෞ"/>
+            <when state="State 69" output="ඪෞ"/>
+            <when state="State 71" output="භෞ"/>
+            <when state="State 73" output="ඵෞ"/>
+            <when state="State 75" output="ළෞ"/>
+            <when state="State 77" output="ඝෞ"/>
+            <when state="State 8" output="නෞ"/>
+            <when state="State 80" output="ඖ"/>
+            <when state="State 81" output="ඌ"/>
+            <when state="State 83" output="ෙඳෟ"/>
+            <when state="State 85" output="ඬෞ"/>
+        </action>
+    </actions>
+    <terminators>
+        <when state="State 1" output="ෙ"/>
+        <when state="State 10" output="ක්‍රෙ"/>
+        <when state="State 11" output="කො"/>
+        <when state="State 12" output="තෙ"/>
+        <when state="State 13" output="තො"/>
+        <when state="State 15" output="රෙ"/>
+        <when state="State 16" output="රො"/>
+        <when state="State 17" output="හෙ"/>
+        <when state="State 18" output="හො"/>
+        <when state="State 2" output="ටෙ"/>
+        <when state="State 20" output="මො"/>
+        <when state="State 21" output="සෙ"/>
+        <when state="State 22" output="සො"/>
+        <when state="State 23" output="දෙ"/>
+        <when state="State 24" output="දො"/>
+        <when state="State 25" output="චෙ"/>
+        <when state="State 26" output="චො"/>
+        <when state="State 27" output="ඤෙ"/>
+        <when state="State 28" output="ඤො"/>
+        <when state="State 29" output="ජෙ"/>
+        <when state="State 3" output="ටො"/>
+        <when state="State 30" output="ජො"/>
+        <when state="State 31" output="ඩෙ"/>
+        <when state="State 32" output="ඩො"/>
+        <when state="State 33" output="ෛ"/>
+        <when state="State 34" output="මෙ"/>
+        <when state="State 35" output="මො"/>
+        <when state="State 36" output="කෙ"/>
+        <when state="State 37" output="කො"/>
+        <when state="State 38" output="බෙ"/>
+        <when state="State 39" output="බො"/>
+        <when state="State 4" output="යෙ"/>
+        <when state="State 40" output="පෙ"/>
+        <when state="State 41" output="පො"/>
+        <when state="State 42" output="ලෙ"/>
+        <when state="State 43" output="ලො"/>
+        <when state="State 44" output="ගෙ"/>
+        <when state="State 45" output="ගො"/>
+        <when state="State 46" output="ඨෙ"/>
+        <when state="State 47" output="ඨො"/>
+        <when state="State 48" output="ශෙ"/>
+        <when state="State 49" output="ශො"/>
+        <when state="State 5" output="යො"/>
+        <when state="State 50" output="ඹෙ"/>
+        <when state="State 51" output="ඹො"/>
+        <when state="State 52" output="ෂෙ"/>
+        <when state="State 54" output="ෂො"/>
+        <when state="State 55" output="ධෙ"/>
+        <when state="State 56" output="ධො"/>
+        <when state="State 57" output="ඡෙ"/>
+        <when state="State 58" output="ඡො"/>
+        <when state="State 59" output="ඥෙ"/>
+        <when state="State 6" output="වෙ"/>
+        <when state="State 60" output="ඥො"/>
+        <when state="State 61" output="ණෙ"/>
+        <when state="State 62" output="ණො"/>
+        <when state="State 63" output="ඛෙ"/>
+        <when state="State 64" output="ඛො"/>
+        <when state="State 65" output="ථෙ"/>
+        <when state="State 66" output="ථො"/>
+        <when state="State 67" output="ඣෙ"/>
+        <when state="State 68" output="ඣො"/>
+        <when state="State 69" output="ඪෙ"/>
+        <when state="State 7" output="වො"/>
+        <when state="State 70" output="ඪො"/>
+        <when state="State 71" output="භෙ"/>
+        <when state="State 72" output="භො"/>
+        <when state="State 73" output="ඵෙ"/>
+        <when state="State 74" output="ඵො"/>
+        <when state="State 75" output="ළෙ"/>
+        <when state="State 76" output="ළො"/>
+        <when state="State 77" output="ඝෙ"/>
+        <when state="State 78" output="ඝො"/>
+        <when state="State 79" output="අ"/>
+        <when state="State 8" output="නෙ"/>
+        <when state="State 80" output="ඔ"/>
+        <when state="State 81" output="උ"/>
+        <when state="State 82" output="එ"/>
+        <when state="State 83" output="ඳෙ"/>
+        <when state="State 84" output="ඳො"/>
+        <when state="State 85" output="ඬෙ"/>
+        <when state="State 86" output="ඬො"/>
+        <when state="State 9" output="නො"/>
+        <when state="bre" output="බ්‍රෙ"/>
+        <when state="bro" output="බ්‍රො"/>
+        <when state="cre" output="ච්‍රෙ"/>
+        <when state="cro" output="ච්‍රො"/>
+        <when state="ddre" output="ඩ්‍රෙ"/>
+        <when state="ddro" output="ඩ්‍රො"/>
+        <when state="dhre" output="ධ්‍රෙ"/>
+        <when state="dhro" output="ධ්‍රො"/>
+        <when state="dre" output="ද්‍රෙ"/>
+        <when state="dro" output="ද්‍රො"/>
+        <when state="ggre" output="ඝ්‍රෙ"/>
+        <when state="ggro" output="ඝ්‍රො"/>
+        <when state="gre" output="ග්‍රෙ"/>
+        <when state="gro" output="ග්‍රො"/>
+        <when state="hre" output="හ්‍රෙ"/>
+        <when state="jre" output="ජ්‍රෙ"/>
+        <when state="jro" output="ජ්‍රො"/>
+        <when state="kkro" output="ක්‍රො"/>
+        <when state="kombu" output="ඟෙ"/>
+        <when state="lre" output="ල්‍රෙ"/>
+        <when state="lro" output="ල්‍රො"/>
+        <when state="mre" output="ම්‍රෙ"/>
+        <when state="nre" output="න්‍රෙ"/>
+        <when state="nro" output="න්‍රො"/>
+        <when state="pre" output="ප්‍රෙ"/>
+        <when state="pro" output="ප්‍රො"/>
+        <when state="sre" output="ස්‍රෙ"/>
+        <when state="sro" output="ස්‍රො"/>
+        <when state="thre" output="ත්‍රෙ"/>
+        <when state="thro" output="ත්‍රො"/>
+        <when state="tre" output="ට්‍රෙ"/>
+        <when state="tro" output="ට්‍රො"/>
+        <when state="vre" output="ව්‍රෙ"/>
+        <when state="vro" output="ව්‍රො"/>
+        <when state="ම්‍රෝ" output="ම්‍රො"/>
+    </terminators>
+</keyboard>
