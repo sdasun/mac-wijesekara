@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 1.8.4 on 2010-11-26 at 11:33 (GMT+05:30)-->
-<!--Last edited by Ukelele version 359 on 2024-05-05 at 14:08 (GMT+5:30)-->
-<keyboard group="126" id="-3514" name="sinhala-wije" maxout="5">
+<!--Last edited by Ukelele version 417 on 2025-04-19 at 20:33 (GMT+5:30)-->
+<keyboard group="126" id="-16079" name="sinhala-wije" maxout="5">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
@@ -598,7 +598,7 @@
         <action id="ක">
             <when state="none" output="ක"/>
             <when state="State 1" next="State 36"/>
-            <when state="State 33" output="නෛ"/>
+            <when state="State 33" output="කෛ"/>
         </action>
         <action id="ඛ">
             <when state="none" output="ඛ"/>
@@ -681,7 +681,7 @@
         <action id="ත">
             <when state="none" output="ත"/>
             <when state="State 1" next="State 12"/>
-            <when state="State 33" output="කෛ"/>
+            <when state="State 33" output="තෛ"/>
         </action>
         <action id="ථ">
             <when state="none" output="ථ"/>
@@ -700,7 +700,7 @@
         <action id="න">
             <when state="none" output="න"/>
             <when state="State 1" next="State 8"/>
-            <when state="State 33" output="වෛ"/>
+            <when state="State 33" output="නෛ"/>
         </action>
         <action id="ඳ">
             <when state="none" output="ඳ"/>
