@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 1.8.4 on 2010-11-26 at 11:33 (GMT+05:30)-->
-<!--Last edited by Ukelele version 417 on 2025-04-19 at 20:33 (GMT+5:30)-->
+<!--Last edited by Ukelele version 417 on 2025-04-20 at 00:54 (GMT+5:30)-->
 <keyboard group="126" id="-16079" name="sinhala-wije" maxout="5">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
