@@ -37,12 +37,12 @@ That single command downloads **`sinhala‑wije.keylayout`** & **`.icns`** and p
 | | | |
 |:-:|:-:|:-:|
 | ![Step 1](https://github.com/sdasun/mac-wijesekara/blob/master/images/step1.png?raw=true) | ![Step 2](https://github.com/sdasun/mac-wijesekara/blob/master/images/step2.png?raw=true) | ![Step 3](https://github.com/sdasun/mac-wijesekara/blob/master/images/step3.png?raw=true) |
-| *Open Input Sources* | *Click ➕* | *Choose Sinhala* |
+| *Open Input Sources* | *Click ➕* | *Choose Others -> sinhala-wije -> Add* |
 
-| | |
-|:-:|:-:|
-| ![Step 4](https://github.com/sdasun/mac-wijesekara/blob/master/images/step4.png?raw=true) | ![Step 5](https://github.com/sdasun/mac-wijesekara/blob/master/images/step5.png?raw=true) |
-| *Select layout* | *Optional shortcut* |
+| |
+|:-:|
+| ![Step 4](https://github.com/sdasun/mac-wijesekara/blob/master/images/step4.png?raw=true) |
+| *Done* |
 
 After adding, use the **menu‑bar input switcher** or your chosen **shortcut** to toggle between Sinhala and your other keyboards.
 
