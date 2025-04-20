@@ -7,7 +7,7 @@
 # • Prints a quick next‑steps reminder (log out / add keyboard)
 #
 # Usage (no root required):
-#   bash <(curl -fsSL https://raw.githubusercontent.com/sdasun/mac-wijesekara/main/install-wijesekara.sh)
+#   bash <(curl -fsSL https://raw.githubusercontent.com/sdasun/mac-wijesekara/master/install-wijesekara.sh)
 # -------------------------------------------------------------
 
 set -euo pipefail
