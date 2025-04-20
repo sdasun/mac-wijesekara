@@ -27,7 +27,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/sdasun/mac-wijesekara/master
 <br/>![Step 5](https://github.com/sdasun/mac-wijesekara/blob/master/images/step5.png?raw=true)
 * අවශ්‍යය නම් keboard shortcut එකක් තෝරාගන්න.
 <br/>
-<br/>![Screenshot 1](https://github.com/sdasun/mac-wijesekara/blob/master/screenshot.png?raw=true)
+<br/>![Screenshot 1](https://github.com/sdasun/mac-wijesekara/blob/master/images/screenshot.png?raw=true)
 නිවැරදිව ස්ථාපනය කළේ නම් ඉහත රුපයේ පරිදි තෝරාගැනීමෙන් හෝ shortcut එක මගින් ඔබට කැමති විටක සිංහල වලට මාරුවිය හැක. සාමාන්‍යය සිංහල යුනිකේත විජේසේකර යතුරු පොවරුවට සමානව මෙය ක්‍රියා කරනමුත් Alt Gr(දකුණු පස ඇති Alt යතුර) වෙනුවට Mac යතුරු පොවරුවේ Option යතුර භාවිතා වන බව සලකන්න. (උදාහරණ, සංඥක "ඳ" සඳහා Option + ද යතුර යොදාගන්න)
 
 වැඩි විස්තර සඳහා http://blog.dasun.me/2012/01/apple-mac-wijesekara-keylayout.html
