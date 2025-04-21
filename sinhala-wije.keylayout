@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 1.8.4 on 2010-11-26 at 11:33 (GMT+05:30)-->
-<!--Last edited by Ukelele version 417 on 2025-04-20 at 22:52 (GMT+5:30)-->
-<keyboard group="126" id="-26922" name="sinhala-wije" maxout="5">
+<!--Last edited by Ukelele version 417 on 2025-04-21 at 11:09 (GMT+5:30)-->
+<keyboard group="126" id="-5977" name="sinhala-wije" maxout="5">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
